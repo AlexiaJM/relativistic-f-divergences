@@ -1,6 +1,7 @@
 # Relativistic f-divergences
 
 Code to replicate all analyses from the paper [On Relativistic f-divergences](http://arxiv.org/abs/1901.02474)
+
 **Discussion at https://ajolicoeur.wordpress.com/relativistic-f-divergences.**
 
 # To replicate analyses from the paper
