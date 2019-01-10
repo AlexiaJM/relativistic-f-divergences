@@ -22,5 +22,5 @@ Code to replicate all analyses from the paper [On Relativistic f-divergences](ht
 **To run**
 * To run models
   * Use GAN.py
-* To Replicate
+* To replicate the paper
   * Open experiments.sh and run the lines you want
