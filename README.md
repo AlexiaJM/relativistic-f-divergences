@@ -4,6 +4,8 @@ Code to replicate all analyses from the paper [On Relativistic f-divergences](ht
 
 **Discussion at https://ajolicoeur.wordpress.com/relativistic-f-divergences.**
 
+This basically the same code as https://github.com/AlexiaJM/RelativisticGAN, but with more options.
+
 # To replicate analyses from the paper
 
 **Needed**
