@@ -23,7 +23,6 @@ parser.add_argument('--n_colors', type=int, default=3)
 parser.add_argument('--z_size', type=int, default=128)
 parser.add_argument('--G_h_size', type=int, default=128, help='Number of hidden nodes in the Generator. Used only in arch=0. Too small leads to bad results, too big blows up the GPU RAM.') # DCGAN paper original value
 parser.add_argument('--D_h_size', type=int, default=128, help='Number of hidden nodes in the Discriminator. Used only in arch=0. Too small leads to bad results, too big blows up the GPU RAM.') # DCGAN paper original value
-parser.add_argument('--conv_size', type=int, default=64, help='Size of convolutions when using Self-Attention GAN.')
 parser.add_argument('--resample', type=int, default=1, help="Resample data in the generator step (Recommended, may affect performance sightly)")
 parser.add_argument('--centercrop', type=int, default=0, help="If not 0, CenterCrop with specified number the images")
 parser.add_argument('--lr_D', type=float, default=.0001, help='Discriminator learning rate')
