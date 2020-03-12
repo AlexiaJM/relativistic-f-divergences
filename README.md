@@ -6,6 +6,29 @@ Code to replicate all analyses from the paper [On Relativistic f-divergences](ht
 
 This basically the same code as https://github.com/AlexiaJM/RelativisticGAN, but with more options.
 
+## Citation
+
+If you find this code useful please cite us in your work.
+
+Paper introducing Relativistic GANs (https://github.com/AlexiaJM/RelativisticGAN):
+```
+@article{jolicoeur2018relativistic,
+  title={The relativistic discriminator: a key element missing from standard GAN},
+  author={Jolicoeur-Martineau, Alexia},
+  journal={arXiv preprint arXiv:1807.00734},
+  year={2018}
+}
+```
+Paper providing the mathematical foundations for Relativistic GANs (https://github.com/AlexiaJM/relativistic-f-divergences)
+```
+@article{jolicoeur2018rfdiv,
+  title={On Relativistic f-Divergences},
+  author={Jolicoeur-Martineau, Alexia},
+  journal={arXiv preprint arXiv:1901.02474},
+  year={2019}
+}
+```
+
 # To replicate analyses from the paper
 
 **Needed**
@@ -28,25 +51,3 @@ This basically the same code as https://github.com/AlexiaJM/RelativisticGAN, but
 * To replicate the paper
   * Open experiments.sh and run the lines you want
 
-## Citation
-
-If you find this code useful please cite us in your work.
-
-Paper introducing Relativistic GANs (https://github.com/AlexiaJM/RelativisticGAN):
-```
-@article{jolicoeur2018relativistic,
-  title={The relativistic discriminator: a key element missing from standard GAN},
-  author={Jolicoeur-Martineau, Alexia},
-  journal={arXiv preprint arXiv:1807.00734},
-  year={2018}
-}
-```
-Paper providing the mathematical fundation for Relativistic GANs (https://github.com/AlexiaJM/relativistic-f-divergences)
-```
-@article{jolicoeur2018rfdiv,
-  title={On Relativistic f-Divergences},
-  author={Jolicoeur-Martineau, Alexia},
-  journal={arXiv preprint arXiv:1901.02474},
-  year={2019}
-}
-```
